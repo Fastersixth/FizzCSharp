@@ -1,0 +1,8 @@
+c:\workshop\working\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+c:\workshop\working\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+c:\workshop\working\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+c:\workshop\working\FizzBuzz\FizzBuzz\bin\Debug\nunit.framework.dll
+c:\workshop\working\FizzBuzz\FizzBuzz\bin\Debug\nunit.framework.xml
+c:\workshop\working\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+c:\workshop\working\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+c:\workshop\working\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
